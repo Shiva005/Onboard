@@ -3,9 +3,7 @@ import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:infinite_cards/infinite_cards.dart';
 
-/** By:
- * https://pub.dev/packages/infinite_cards/
- */
+///https://pub.dev/packages/infinite_cards/
 
 class infiniteCards extends StatefulWidget {
   @override
