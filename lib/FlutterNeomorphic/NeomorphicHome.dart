@@ -6,6 +6,8 @@ import 'package:onboarding/FlutterNeomorphic/Register.dart';
 import 'Login.dart';
 import 'NeoLandingPage.dart';
 
+///Credit: www.idean.com
+
 class NeomorphicHome extends StatefulWidget {
   NeomorphicHome({Key key}) : super(key: key);
 

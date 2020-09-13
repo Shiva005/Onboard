@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_neumorphic/flutter_neumorphic.dart';
 
+///Credit: www.idean.com
+
 class Register extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

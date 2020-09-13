@@ -3,6 +3,8 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:flutter_neumorphic/flutter_neumorphic.dart';
 
+///Credit: www.idean.com
+
 class NeoLanding extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
